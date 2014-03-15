@@ -31,4 +31,6 @@ main() {
             line_not_empty = 1;
         }
     }
+
+    return 0;
 }
